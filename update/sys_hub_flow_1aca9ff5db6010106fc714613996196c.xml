@@ -6,6 +6,7 @@
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
+        <compiler_build/>
         <copied_from/>
         <copied_from_name/>
         <description/>
@@ -14,6 +15,7 @@
         <latest_snapshot/>
         <master_snapshot/>
         <name>Stolen Hardware</name>
+        <natlang/>
         <outputs/>
         <remote_trigger_id/>
         <run_as>user</run_as>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_qb_result_base" label="Query Results" max_length="40" name="x_58872_needit_u_cmdb_qb_result_41b87af385ccaf560c65e3011675d81180a5b2fc" sizeclass="0" type="collection"/>
+</database>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_qb_result_base" label="All servers with a connection to DB-Query Results" max_length="40" name="x_58872_needit_u_cmdb_qb_result_9d664725868167cad145004da6727d5c0dfb1fcd" sizeclass="0" type="collection"/>
+</database>
